@@ -14,14 +14,14 @@
 
 📫 Let's connect! You can drop me a line via email at [prtkshukla1@gmail.com] or find me on LinkedIn- https://www.linkedin.com/in/pratikshuklapune/
 
-
+- ⚡ Fun fact: ...
+- A Dynamic Mechanical Engineer transitioning into Data analytics
 
 Thank you for visiting my GitHub profile! I hope you find my projects interesting and insightful.
 
 Happy coding! 🚀
 
-- ⚡ Fun fact: ...
-- A Dynamic Mechanical Engineer transitioning into Data analytics
+
 
 <!---
 Prtk-Shukla/Prtk-Shukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
